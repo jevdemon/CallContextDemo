@@ -1,0 +1,7 @@
+c:\code\CallContextDemo\CallContextDemo\bin\Debug\CallContextDemo.exe.config
+c:\code\CallContextDemo\CallContextDemo\bin\Debug\CallContextDemo.exe
+c:\code\CallContextDemo\CallContextDemo\bin\Debug\CallContextDemo.pdb
+c:\code\CallContextDemo\CallContextDemo\obj\Debug\CallContextDemo.csprojAssemblyReference.cache
+c:\code\CallContextDemo\CallContextDemo\obj\Debug\CallContextDemo.csproj.CoreCompileInputs.cache
+c:\code\CallContextDemo\CallContextDemo\obj\Debug\CallContextDemo.exe
+c:\code\CallContextDemo\CallContextDemo\obj\Debug\CallContextDemo.pdb
